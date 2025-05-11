@@ -118,7 +118,7 @@ This document defines the database schema for the Airbnb Clone project using an 
    - For code-based visualization, use the provided [PlantUML code](#plantuml-code).  
 
 2. **Example ERD Layout**:  
-   ![ER Diagram](ERD/erd_final_drawio.png)  
+   ![ER Diagram](https://github.com/Yawksh/alx-airbnb-database/blob/main/ERD/erd_final.drawio.png) 
 
 ---
 
