@@ -3,6 +3,11 @@
 This document defines the database schema for the Airbnb Clone project using an Entity-Relationship Diagram (ERD). The schema includes entities, relationships, constraints, and indexes to ensure data integrity and performance.
 
 ---
+## Visualizing the ERD
+
+
+2. **Example ERD Layout**:  
+   ![ER Diagram](https://github.com/Yawksh/alx-airbnb-database/blob/main/ERD/erd_final.drawio.png) 
 
 ## Entities and Attributes
 
@@ -111,14 +116,7 @@ This document defines the database schema for the Airbnb Clone project using an 
 
 ---
 
-## Visualizing the ERD
 
-1. **Tools**:  
-   - Use [Draw.io](https://draw.io) or [dbdiagram.io](https://dbdiagram.io) to design the ERD.  
-   - For code-based visualization, use the provided [PlantUML code](#plantuml-code).  
-
-2. **Example ERD Layout**:  
-   ![ER Diagram](https://github.com/Yawksh/alx-airbnb-database/blob/main/ERD/erd_final.drawio.png) 
 
 ---
 
